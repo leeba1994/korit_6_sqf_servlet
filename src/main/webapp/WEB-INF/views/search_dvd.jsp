@@ -44,8 +44,8 @@
 			<th>제목</th>
 			<th>제작사_ID</th>
 			<th>제작사</th>
-			<th>발행상_ID</th>
-			<th>발행상</th>
+			<th>발행사_ID</th>
+			<th>발행사</th>
 			<th>발행년도</th>
 			<th>등록일자</th>
 		</tr>
